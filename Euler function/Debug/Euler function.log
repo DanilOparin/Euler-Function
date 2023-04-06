@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(59,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(99,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(100,35): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Euler function\Source.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Euler function.vcxproj -> C:\Users\opari\Desktop\user Library\c++\Euler function_Parallel 2\Debug\Euler function.exe
